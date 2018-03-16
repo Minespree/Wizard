@@ -1,0 +1,3 @@
+name: Wizard
+main: net.minespree.wizard.WizardPlugin
+version: ${gitCommit}
